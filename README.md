@@ -1,5 +1,8 @@
 # Altium Brushless DC (BLDC) Driver PCB
 
+![Image](https://github.com/user-attachments/assets/c38751c1-fe98-4375-89ad-4d58ff7590d1)
+
+
 This repository contains the Altium Designer files for a **Brushless DC (BLDC) Motor Driver PCB**, designed for control of BLDC motors in various applications.
 
 ## Overview
