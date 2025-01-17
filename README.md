@@ -1,5 +1,6 @@
 # Altium Brushless DC (BLDC) Driver PCB
 
+![Image](https://github.com/user-attachments/assets/19548974-5918-4351-9a49-595b4e18a3e8)
 ![Image](https://github.com/user-attachments/assets/c38751c1-fe98-4375-89ad-4d58ff7590d1)
 
 
